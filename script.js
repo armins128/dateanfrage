@@ -12,13 +12,13 @@ const gifStages = [
 const noMessages = [
     "Nein",
     "Bist du dir sicher? 🤔",
-    "Pookie, bitte... 🥺",
+    "Maus, bitte... 🥺",
     "Wenn du Nein sagst, werde ich wirklich traurig...",
     "Ich werde sehr traurig sein... 😢",
     "Bitte??? 💔",
     "Tu mir das nicht an...",
     "Letzte Chance! 😭",
-    "Du kannst das mit New York jetzt wirklich nicht ernst meinen"
+    "Du kannst das mit New York jetzt wirklich nicht ernst meinen 🤯"
 ]
 
 const yesTeasePokes = [
