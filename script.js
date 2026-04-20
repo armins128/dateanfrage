@@ -22,7 +22,7 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "versuch doch erstmal nein zu sagen... ich wette, du willst wissen, was passiert 😏",
+    "bin ja honestly bisschen überrascht über das ja, dachte du klickst auf nein. Klick doch mal auf nein 😏",
     "los, klick auf nein... nur einmal 👀",
     "du verpasst da was 😈",
     "klick auf nein, ich fordere dich heraus 😏"
