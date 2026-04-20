@@ -187,6 +187,10 @@ h1 {
     to { transform: translateY(-12px) rotate(1deg); }
 }
 
+.date-plan + .date-plan {
+    margin-top: 8px;
+}
+
 .yes-message {
     font-size: 1.4rem;
     color: #e91e8c;
